@@ -48,3 +48,5 @@ git checkout
 
 ![Hey, Bill](cat1.jpg)
 
+ВСТАВИЛИ КАРТИНКУ
+
