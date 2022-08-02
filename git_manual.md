@@ -71,6 +71,8 @@ git pull
 
 git push
 
+TEST Pull-command
+
 
 
 
